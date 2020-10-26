@@ -1,0 +1,16 @@
+
+.box{
+	width: 250px;
+	background-color: #ABD1AD;
+	margin: 0 auto;
+	padding: 5px 0px;
+	border-radius: 5px;
+	color: #fff;
+	margin-top: 20px;
+}
+
+
+#clock{
+
+	text-align: center;
+}
